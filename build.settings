@@ -1,0 +1,12 @@
+-- build.settings for project: Space Invaders-- Managed with http://OutlawGameTools.com-- Copyright 2013 Craig Briggs. All Rights Reserved.-- cpmgen build.settings
+settings =
+{
+	orientation =
+	{
+		supported =
+		{
+			"landscapeLeft","landscapeRight"
+		},
+	},
+
+}
